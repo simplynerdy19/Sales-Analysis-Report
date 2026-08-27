@@ -1,2 +1,2 @@
 # Sales-Analysis-Report
-This project analyzes AAL’s fourth-quarter 2020 apparel sales data across Australian states, customer groups, and times of day.
+This project analyzes AAL’s fourth-quarter 2020 apparel sales data across Australian states, customer groups, and times of day. The analysis identifies high- and low-performing states and customer segments, examines sales patterns and trends, and uses visualizations to support business decisions. Based on the findings, recommendations are provided for improving sales in underperforming regions and guiding future sales strategies and expansion decisions.
